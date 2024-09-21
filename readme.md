@@ -33,11 +33,11 @@
 
 ## screenshots
 
-![into](https://github.com/Sidd-underscore/cobalt-ext/blob/main/tree/screenshots/intro.png)
-![youtube videos](https://github.com/Sidd-underscore/cobalt-ext/blob/main/tree/screenshots/yt-videos.png)
-![youtube shorts](https://github.com/Sidd-underscore/cobalt-ext/blob/main/tree/screenshots/yt-shorts.png)
-![instagram reels](https://github.com/Sidd-underscore/cobalt-ext/blob/main/tree/screenshots/instagram-reels.png)
-![twitter videos](https://github.com/Sidd-underscore/cobalt-ext/blob/main/tree/screenshots/twitter-videos.png)
+![into](https://github.com/Sidd-underscore/cobalt-ext/blob/main/screenshots/intro.png?raw=true)
+![youtube videos](https://github.com/Sidd-underscore/cobalt-ext/blob/main/screenshots/yt-videos.png?raw=true)
+![youtube shorts](https://github.com/Sidd-underscore/cobalt-ext/blob/main/screenshots/yt-shorts.png?raw=true)
+![instagram reels](https://github.com/Sidd-underscore/cobalt-ext/blob/main/screenshots/instagram-reels.png?raw=true)
+![twitter videos](https://github.com/Sidd-underscore/cobalt-ext/blob/main/screenshots/twitter-videos.png?raw=true)
 
 ## contributing
 
