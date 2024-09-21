@@ -30,6 +30,9 @@
 - [x] Twitter Videos
 - [x] YouTube Shorts
 - [x] YouTube Videos
+- [ ] SoundCloud
+- [ ] TikTok
+- [ ] Facebook Videos
 
 ## screenshots
 
@@ -38,6 +41,7 @@
 ![youtube shorts](https://github.com/Sidd-underscore/cobalt-ext/blob/main/screenshots/yt-shorts.png?raw=true)
 ![instagram reels](https://github.com/Sidd-underscore/cobalt-ext/blob/main/screenshots/instagram-reels.png?raw=true)
 ![twitter videos](https://github.com/Sidd-underscore/cobalt-ext/blob/main/screenshots/twitter-videos.png?raw=true)
+
 
 ## contributing
 
