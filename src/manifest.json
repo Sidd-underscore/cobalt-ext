@@ -1,0 +1,35 @@
+{
+  "name": "cobalt-ext",
+  "version": "0.1.0",
+  "description": "the most convenient way to save what you love, right where you need it",
+  "manifest_version": 3,
+  "minimum_chrome_version": "88",
+
+  "icons": {
+    "16": "icons/icon-16x16.png",
+    "32": "icons/icon-32x32.png",
+    "48": "icons/icon-48x48.png",
+    "96": "icons/icon-96x96.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://*.instagram.com/*"],
+      "js": ["services/instagram.js"]
+    },
+    {
+      "matches": ["*://*.x.com/*", "*://*.twitter.com/*"],
+      "js": ["services/twitter.js"]
+    },
+    {
+      "matches": ["*://*.youtube.com/*"],
+      "js": ["services/youtube.js"]
+    }
+  ],
+
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "cobalt-ext@sidd.studio"
+    }
+  }
+}
