@@ -10,7 +10,8 @@
 ## usage
 
 > [!NOTE]  
-> `cobalt-ext` will (hopefully) be available on [Chrome Web Store](https://chrome.google.com/webstore/) and [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/) very soon. in the meantime:
+> `cobalt-ext` will not be available on the Chrome Web Store or Firefox Add-ons store
+> therefore, you must install it manually.
 
 1. download the latest release from [the releases tab](https://github.com/Sidd-underscore/cobalt-ext/releases/latest)
 2. unzip the folder and place it somewhere you will remember
