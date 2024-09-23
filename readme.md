@@ -2,7 +2,7 @@
 
 > the most convenient way to save what you love, right where you need it
 
-`cobalt-ext` is a browser extension that allows you to download that one Instagram reel, that music video on YouTube, or that video on Twitter, with a convenient and thoughtful design. `cobalt-ext` uses the design system of each [service it supports](#supported-services) to create beautiful and functional interfaces that fit right in
+`cobalt-ext`  a browser extension that allows you to convieniently download Instagram reels, YouTube videos/shorts, and videos on Twitter. it uses the design system of each [service it supports](#supported-services) to create beautiful and functional interfaces that fit right in
 
 > [!WARNING]  
 > although `cobalt-ext` redirects you to [cobalt.tools](https://cobalt.tools) in order to download your content, it is not affiliated with cobalt.tools
